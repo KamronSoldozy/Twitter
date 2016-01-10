@@ -1,0 +1,72 @@
+
+body
+{ font:  Arial;
+  background-color: #99ff99;
+}
+a:link {
+    color: #FFFFFF;
+}
+
+/* visited link */
+a:visited {
+    color: #FFFFFF;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FFFFFF;
+}
+
+/* selected link */
+a:active {
+    color: #FFFFFF;
+}
+h1.ex{
+	padding:10px;
+}
+h2.dive{
+	color: #FFFFFF;
+}
+.projects{
+background-color:#33001a;
+color:#ffffff;
+margin-bottom:0px;
+margin-top:5px;
+padding:30px;
+line-height: 1.4;}
+.current{	
+	opacity: 0.8;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+background-color:#CC0000;
+color:#FFFFFF;
+margin:20px;
+padding:20px;}
+.current:hover{
+color:##E61616;
+background-color:#747160;
+opacity: 1.0;
+}
+.refs{
+font-size: 18px;
+background-color: #33001a;
+color:#ffffff;
+margin-top:0px;
+padding:20px;
+border-style: dashed;
+border-radius: 4px;
+margin-left: 250px;
+margin-right: 250px;
+}
+#reference{
+	color:#d9d9d9;
+
+}
+a.ref:link{
+	color:#00FF00;
+}
+#help{
+	color: #FFFFFF;
+	padding-left:5em
+	
+
+}

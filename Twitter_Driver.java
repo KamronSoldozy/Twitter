@@ -1,5 +1,4 @@
-//Miss Galanos
-//version 12.8.2015
+   //version 12.8.2015
 
 import twitter4j.*;       //set the classpath to lib\twitter4j-core-4.0.2.jar
 import java.util.List;
